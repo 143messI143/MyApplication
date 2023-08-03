@@ -21,6 +21,16 @@
         android:layout_centerHorizontal="true"J
         android:drawableRight="@drawable/ic_baseline_keyboard_arrow_down_24"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="English (Pakistan)"
+        android:textSize="14sp"
+        android:textColor="#c4c4c4"
+        android:layout_marginTop="6dp"
+        android:layout_centerHorizontal="true"
+        android:drawableRight="@drawable/ic_baseline_keyboard_arrow_down_24"/>
+
     <!-- Linear layout to contain all the
         editText, password , logo and button-->
     <LinearLayout
