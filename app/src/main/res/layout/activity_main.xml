@@ -14,7 +14,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="English (usa)"
+        android:text="English (china)"
         android:textSize="14sp"
         android:textColor="#c4c4c4"
         android:layout_marginTop="6dp"
